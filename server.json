@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.penny4nonsense/mcp-pymupdf",
+  "description": "MCP server for reading PDFs using PyMuPDF. Supports local files and URLs.",
+  "repository": {
+    "url": "https://github.com/penny4nonsense/mcp-pymupdf",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "mcp-pymupdf",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

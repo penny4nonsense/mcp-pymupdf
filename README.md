@@ -1,5 +1,7 @@
 # mcp-pymupdf
 
+<!-- mcp-name: io.github.penny4nonsense/mcp-pymupdf -->
+
 An MCP server for reading PDFs using PyMuPDF. Supports local files and URLs.
 
 ## Installation
